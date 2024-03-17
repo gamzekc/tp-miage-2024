@@ -4,7 +4,10 @@
 Mathias LORET
 Gamze KOC
 
-Commentaires éventuels des étudiants : #XXXXXX#
+Commentaires éventuels des étudiants : 
+
+Les réponses aux questions ont été rédigées sur un google doc partagé : https://docs.google.com/document/d/1djswZLaHsAHFq6q53OLhWSYTH4GxaWfqbFlJuwrEl-k/edit?usp=sharing
+
 
 ## Pré-requis 
 
